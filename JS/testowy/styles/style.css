@@ -1,0 +1,21 @@
+html {
+  font-family: "Roboto";
+  font-size: 16px;
+  color: white;
+  background-color: rgb(58, 58, 58);
+}
+body {
+  width: auto;
+  padding: 1% 1% 1% 1%;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 80px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
