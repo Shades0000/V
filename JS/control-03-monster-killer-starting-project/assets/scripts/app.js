@@ -98,8 +98,9 @@ function showlog() {
 
   for (const i of logarr) {
     for (const key in i) {
-      console.log(i[key]);
+      console.log(`${key} : ${i[key]}`);
     }
+    console.log("------")
   }
 }
 
